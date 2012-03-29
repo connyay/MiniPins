@@ -31,8 +31,7 @@ public final class R {
     public static final class layout {
         public static final int layout=0x7f030000;
         public static final int main=0x7f030001;
-        public static final int newpin=0x7f030002;
-        public static final int pins=0x7f030003;
+        public static final int pins=0x7f030002;
     }
     public static final class menu {
         public static final int context=0x7f060000;
